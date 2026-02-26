@@ -99,7 +99,7 @@ const Hero = () => {
           </div>
           <h1 className="text-4xl sm:text-6xl md:text-7xl font-bold tracking-tight mb-6 md:mb-8 leading-[1.1]">
             Van Rezky Nababan.<br />
-            <span className="text-zinc-500">Backend Architect.</span>
+            <span className="text-zinc-500">Backend Engineer.</span>
           </h1>
         </motion.div>
         
